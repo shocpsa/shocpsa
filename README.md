@@ -1,4 +1,7 @@
 ## Hi there 👋
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=shocpsa&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Profile
 ・Name: Shota Arakawa
 
@@ -24,6 +27,18 @@
    Basic operation of GitHub
    
   Proficient in DaVinci Resolve (Video editing, color grading, audio editing)
+
+  ## Proposed start date
+   August, 2025
+
+  ## Desired duration of internship
+   3-6 months
+
+  ## Days per week
+   1-2 days per week
+
+  ## Proposed monthly stipend
+   250 EUR/month
 
 
 
