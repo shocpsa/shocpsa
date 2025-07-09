@@ -14,6 +14,10 @@
 ・[HOT](https://tasks.hotosm.org/contributions/projects/?mappedByMe=1&action=any)
 ・[HDYC](https://hdyc.neis-one.org/?Shota%20Arakawa)
 
+・Joined [International Humanitarian Mapathon 2025](https://mapathon.la/en/), and Mapped Yoron Island, Japan.
+
+・Intermediate Mapper (HOT)
+
 ## Analyst/Reporting/Technical skills
  ### Languages
  
