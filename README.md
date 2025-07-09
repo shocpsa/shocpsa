@@ -10,11 +10,13 @@
 ・[Resume](https://docs.google.com/document/d/1nrXELZHW85heHimzAmawKIttfhwiJ64DUt_MBAZ-vWQ/edit?usp=sharing)
 
 ## OSM Involvement
+### My accounts
+
 ・[OSM](https://www.openstreetmap.org/user/Shota%20Arakawa)
 ・[HOT](https://tasks.hotosm.org/contributions/projects/?mappedByMe=1&action=any)
 ・[HDYC](https://hdyc.neis-one.org/?Shota%20Arakawa)
 
-・Joined [International Humanitarian Mapathon 2025](https://mapathon.la/en/), and Mapped Yoron Island, Japan.
+・Paticipated in [International Humanitarian Mapathon 2025](https://mapathon.la/en/), and Mapped Yoron Island, Japan.
 
 ・Intermediate Mapper (HOT)
 
