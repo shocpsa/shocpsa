@@ -12,7 +12,7 @@
 ## OSM Involvement
 ### My accounts
 
-・[OSM](https://www.openstreetmap.org/user/Shota%20Arakawa)
+・[OSM](https://www.openstreetmap.org/user/ShotaArakawa)
 ・[HOT](https://tasks.hotosm.org/contributions/projects/?mappedByMe=1&action=any)
 ・[HDYC](https://hdyc.neis-one.org/?Shota%20Arakawa)
 
